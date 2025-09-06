@@ -2,7 +2,7 @@
 
 ## 🎓 **Education**  
 - Electrical Engineering student at the University of Calgary
-- Entering 3rd year and currently working as a **Software Engineering Research Intern**, funded by NSERC's USRA
+- Entering 3rd year and just finished work as a **Software Engineering Research Intern**, funded by NSERC's USRA
 
 ## My Interests
 
